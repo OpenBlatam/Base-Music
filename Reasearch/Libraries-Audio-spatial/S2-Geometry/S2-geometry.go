@@ -1,4 +1,4 @@
-package Reasearch
+package S2_Geometry
 
 import (
 	"fmt"
